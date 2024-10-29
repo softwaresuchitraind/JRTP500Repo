@@ -71,14 +71,11 @@
 				http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
 				<plugin>
 					<artifactId>maven-resources-plugin</artifactId>
-<<<<<<< HEAD
+
 
 					<version>3.5.1</version>
 					<scope>compile</scope>
 
-=======
-					<version>4.4.1</version>
->>>>>>> 8667e98 (dev1 pom.xml modified)
 				</plugin>
 				<plugin>
 					<artifactId>maven-compiler-plugin</artifactId>
