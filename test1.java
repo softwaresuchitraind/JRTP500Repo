@@ -13,10 +13,16 @@ pulic class Test1
 		System.out.println("M2");
 	}
 
+
 	public void m7()
 	{
 		int x =10;
 		int y = x*x;
 		System.out.println(y);
+	}
+	public void m6()
+	{
+		System.out.println("task123 completed");
+
 	}
 }
